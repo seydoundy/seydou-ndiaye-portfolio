@@ -41,7 +41,7 @@ sections:
         default_value: Votre nom
         is_required: true
       - input_type: email
-        label: Votre adresse email
+        label: Votre adresse mail
         default_value: Votre adresse mail
         is_required: true
         name: Email
