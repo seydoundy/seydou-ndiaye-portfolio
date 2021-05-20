@@ -4,8 +4,9 @@ sections:
   - type: hero_section
     title: Seydou Ndiaye
     subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+      Je suis actuellement chargé de communication en alternance au sein de
+      l'association Le Sillage. J'ai intégré un tester Expert Digital dispensé
+      conjointement par l'ISD Flaubert et la Normandie Web School.
     actions:
       - label: Contact Me
         url: /contact
