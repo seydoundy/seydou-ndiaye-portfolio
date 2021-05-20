@@ -3,7 +3,9 @@ title: Contact
 sections:
   - type: hero_section
     title: Contactez-moi
-    subtitle: Fill out the form below and I will get in touch within 1 business day.
+    subtitle: >-
+      FPour toutes questions ou informations, n'hésitez pas à me contacter en
+      remplissant le formulaire.
     align: center
     padding_top: medium
     padding_bottom: medium
