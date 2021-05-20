@@ -42,7 +42,7 @@ sections:
         is_required: true
       - input_type: email
         label: Votre adresse email
-        default_value: Your email address
+        default_value: 'Votre adresse '
         is_required: true
         name: Email
       - input_type: textarea
