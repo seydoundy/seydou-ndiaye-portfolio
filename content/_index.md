@@ -5,7 +5,7 @@ sections:
     title: Seydou Ndiaye
     subtitle: >-
       Je suis actuellement chargé de communication en alternance au sein de
-      l'association Le Sillage. J'ai intégré un tester Expert Digital dispensé
+      l'association Le Sillage. J'ai intégré un master Expert Digital dispensé
       conjointement par l'ISD Flaubert et la Normandie Web School.
     actions:
       - label: Contactez-moi
