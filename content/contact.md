@@ -44,6 +44,7 @@ sections:
         label: Mail
         default_value: Your email address
         is_required: true
+        name: Email
       - input_type: textarea
         name: message
         label: Message
