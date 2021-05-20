@@ -8,7 +8,7 @@ sections:
       l'association Le Sillage. J'ai intégré un tester Expert Digital dispensé
       conjointement par l'ISD Flaubert et la Normandie Web School.
     actions:
-      - label: Contactez -moi
+      - label: Contactez-moi
         url: /contact
         style: primary
     image: images/seydou-ndiaye.jpg
