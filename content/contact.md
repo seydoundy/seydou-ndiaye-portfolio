@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Contactez-moi
     subtitle: >-
-      FPour toutes questions ou informations, n'hésitez pas à me contacter en
+      Pour toutes questions ou informations, n'hésitez pas à me contacter en
       remplissant le formulaire.
     align: center
     padding_top: medium
