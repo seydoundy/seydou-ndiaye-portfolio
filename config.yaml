@@ -34,7 +34,7 @@ params:
       - label: FAQ
         url: /faq
         style: link
-      - label: Contact me
+      - label: Contactez-moi
         url: /contact
         style: link
     has_secondary_nav: true
